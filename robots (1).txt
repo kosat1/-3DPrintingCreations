@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Host: 3dprintingcreations.tilda.ws
+Sitemap: https://3dprintingcreations.tilda.ws/sitemap.xml
+
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign
+
+User-agent: Googlebot
+Disallow: /tmp/
